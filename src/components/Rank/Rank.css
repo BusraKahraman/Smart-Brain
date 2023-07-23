@@ -1,0 +1,9 @@
+.border-container {
+  display: inline-block;
+  border: 3px hidden rgb(85, 85, 102);
+  padding: 10px;
+}
+
+.border-container div {
+  margin: 5px;
+}
